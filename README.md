@@ -15,9 +15,6 @@ To test, contribute or just see what we did follow few easy steps:
 [React agenda with MDBReact](https://react-agenda-53661.firebaseapp.com/)
 
 
-## Demo
-[React agenda with MDBReact](https://react-agenda-53661.web.app/)
-
 ## Bugs
 If you want to report a bug or submit your idea feel fre to open an issue
 
