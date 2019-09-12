@@ -10,8 +10,10 @@ To test, contribute or just see what we did follow few easy steps:
 - to build project use `yarn run build` (od `npm run build`)
 - `yarn run remove-demo` (or `npm run remove-demo`) removes demo app pages
 - enjoy!
-##Demo
+
+## Demo
 [React agenda with MDBReact](https://react-agenda-53661.web.app/)
+
 ## Bugs
 If you want to report a bug or submit your idea feel fre to open an issue
 
